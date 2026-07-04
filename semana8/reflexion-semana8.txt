@@ -1,8 +1,0 @@
-La seguridad digital es fundamental para proteger plataformas tecnológicas porque ayuda a conservar la confianza de las personas que participan en ellas.
-Cuando se manejan datos, cuentas y procesos colaborativos, una brecha puede afectar a toda la comunidad.
-Proteger contraseñas, credenciales y sistemas reduce el riesgo de accesos no autorizados.
-También permite mantener la integridad de la información compartida y evitar pérdidas o usos indebidos.
-En entornos participativos, la seguridad fortalece la continuidad de las actividades y la colaboración.
-Además, al aplicar buenas prácticas, se fomenta una cultura responsable entre los usuarios.
-Esto contribuye a que las plataformas sean más confiables y seguras para todos.
-La protección digital no solo responde a una necesidad técnica, sino también a una responsabilidad colectiva.
